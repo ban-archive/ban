@@ -1,9 +1,10 @@
-# ban
-Méta-dépôt des travaux autour de la Base Adresse Nationale
+# Méta-dépôt des travaux autour de la Base Adresse Nationale
 
 Bonjour et merci de vous être portés volontaires pour tester l’API BAN !
 
-Nous sommes entrés dans une phase de test de l’API, qui durera jusqu’à mi octobre, dans le but d’améliorer la BAN et l’API. Votre rôle est de tester fonctionnellement l’API (prise en main, fonctionnalités, droits, synchronisation avec votre SI, documentation,…) mais aussi d’évaluer les données adresse sur vos départements (qualité, exhaustivité, homogénéité, liens entre objets, doublons, documentation…) puis nous faire des retours. Vos retours seront priorisés pour faire évoluer les outils de l’API BAN. Actuellement, voici les départements dans la BAN https://github.com/BaseAdresseNationale/donnees-initiales/blob/master/departements.csv, choisis en priorité selon vos zones d’influence. Cette BAN test est un premier essai de BAN et est en cours d’amélioration (cf tickets ouverts sur le github), ce qui se confirmera grâce à vos retours. Elle a été initialisée à partir de différents sources (INSEE, La Poste, IGN, FANTOIR, DGFIP/BANO). Le processus d’initialisation est décrit sur le github https://github.com/BaseAdresseNationale/donnees-initiales/tree/master/scripts 
+Nous sommes entrés dans une phase de test de l’API, qui durera jusqu’à mi octobre, dans le but d’améliorer la BAN et l’API. Votre rôle est de tester fonctionnellement l’API (prise en main, fonctionnalités, droits, synchronisation avec votre SI, documentation,…) mais aussi d’évaluer les données adresse sur vos départements (qualité, exhaustivité, homogénéité, liens entre objets, doublons, documentation…) puis nous faire des retours. Vos retours seront priorisés pour faire évoluer les outils de l’API BAN. 
+
+Actuellement, voici les départements dans la BAN https://github.com/BaseAdresseNationale/donnees-initiales/blob/master/departements.csv, choisis en priorité selon vos zones d’influence. Cette BAN test est un premier essai de BAN et est en cours d’amélioration (cf tickets ouverts sur le github), ce qui se confirmera grâce à vos retours. Elle a été initialisée à partir de différents sources (INSEE, La Poste, IGN, FANTOIR, DGFIP/BANO). Le processus d’initialisation est décrit sur le github https://github.com/BaseAdresseNationale/donnees-initiales/tree/master/scripts 
 
 
 Tout d’abord, il faut que validiez la charte d’expérimentation par mail (api-ban@ign.fr), qui fait office de CGU pendant la phase d’expérimentation. Elle se trouve https://github.com/BaseAdresseNationale/charte-experimentation/blob/finalisation-xp/CHARTE.md

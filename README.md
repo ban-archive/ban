@@ -2,7 +2,7 @@
 
 Bonjour et merci de vous être portés volontaires pour tester l’API BAN !
 
-Nous sommes entrés dans une phase de test de l’API, qui durera jusqu’à mi octobre, dans le but d’améliorer la BAN et l’API. Votre rôle est de tester fonctionnellement l’API (prise en main, fonctionnalités, droits, synchronisation avec votre SI, documentation,…) mais aussi d’évaluer les données adresse sur vos départements (qualité, exhaustivité, homogénéité, liens entre objets, doublons, documentation…) puis nous faire des retours. Vos retours seront priorisés pour faire évoluer les outils de l’API BAN. 
+Nous sommes entrés dans une phase de test de l’API, qui durera jusqu’à mi avril, dans le but d’améliorer la BAN et l’API. Votre rôle est de tester fonctionnellement l’API (prise en main, fonctionnalités, droits, synchronisation avec votre SI, documentation,…) mais aussi d’évaluer les données adresse sur vos départements (qualité, exhaustivité, homogénéité, liens entre objets, doublons, documentation…) puis nous faire des retours. Vos retours seront priorisés pour faire évoluer les outils de l’API BAN. 
 
 Cette BAN test est un premier essai de BAN et est en cours d’amélioration (cf tickets ouverts sur le github), ce qui se confirmera grâce à vos retours. Elle a été initialisée à partir de différents sources (INSEE, La Poste, IGN, FANTOIR, DGFIP/BANO). Le processus d’initialisation est décrit sur le github https://github.com/BaseAdresseNationale/donnees-initiales/tree/master/scripts 
 

@@ -9,7 +9,7 @@ Cette BAN test est en cours d’amélioration. Elle a été initialisée à part
 
 Tout d’abord, il faut que validiez la charte d’expérimentation par mail (api-ban@ign.fr), qui fait office de CGU pendant la phase d’expérimentation. Elle se trouve https://github.com/BaseAdresseNationale/charte-experimentation/blob/master/CHARTE.md
 
-Par vos inforations de connexion, vous pourrez créer des token dans l’API, qu’il vous faudra redemander selon la procédure décrite dans https://github.com/BaseAdresseNationale/ban/wiki/Documentation-utilisateur-de-l'API-de-gestion. Cette documentation est plus générale puisqu’elle décrit toute l’API et notamment comment accéder aux différentes ressources. Quant aux ressources accessibles, elles sont décrites dans https://github.com/BaseAdresseNationale/ban/wiki/Ressources-de-l'API-de-gestion. 
+Par vos informations de connexion, vous pourrez créer des token dans l’API, qu’il vous faudra redemander selon la procédure décrite dans https://github.com/BaseAdresseNationale/ban/wiki/Documentation-utilisateur-de-l'API-de-gestion. Cette documentation est plus générale puisqu’elle décrit toute l’API et notamment comment accéder aux différentes ressources. Quant aux ressources accessibles, elles sont décrites dans https://github.com/BaseAdresseNationale/ban/wiki/Ressources-de-l'API-de-gestion. 
 Vos droits sont classiques et consistent en la lecture et l’écriture de 3 classes principales du modèle : les Group (qui sont en général les voies et les lieux-dits), les Housenumber (les adresses) et les Position.
 
 Enfin, pour des questions et des retours à  l’équipe technique BAN, vous utiliserez au choix :
